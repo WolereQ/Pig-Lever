@@ -1,0 +1,9 @@
+name: WPigsLever
+version: 1.0
+authors: [__WolereK__]
+main: lever.wolerek.Main
+
+
+
+commands:
+  lever:
