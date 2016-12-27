@@ -1,4 +1,4 @@
-package test.wolerek.listeners.leaver;
+package lever.wolerek.lever;
 
 import java.util.List;
 
