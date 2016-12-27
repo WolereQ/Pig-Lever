@@ -1,4 +1,4 @@
-packate lever.wolerek.lever;
+package lever.wolerek.lever;
 
 import java.util.Collection;
 
